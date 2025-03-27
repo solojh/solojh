@@ -3,12 +3,16 @@ I'm Jie Hao
 
 - Data Analytics graduate from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA).
 
-Working Knowledge of:  
+💼 **Experience:**  
+- Data Analyst at Meishunfang Manufacturing (Current)
+- Intern at I Net Spatial
+
+🔧 **Technical Skills:**  
 - Data Analysis: Python (Pandas, NumPy, Matplotlib, Seaborn), R, Excel  
 - Data Visualization: Tableau, Power BI  
 - Automation: Excel VBA
 - ERP System: SAP Logon
-- Meishunfang Manufacturing - Data Analyst (Current)
+
 
 
 ## Libraries and Tools (by Preference)
@@ -19,7 +23,6 @@ Working Knowledge of:
 ![Excel VBA](https://img.shields.io/badge/-Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 
 
