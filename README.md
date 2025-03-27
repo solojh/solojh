@@ -13,8 +13,8 @@ I'm Jie Hao
 - ML Libraries: Scikit-learn, TensorFlow, PyTorch  
 
 ### ⚡ **Automation & Tools**  
-- Excel VBA (Workflow Automation)  
-- Flask (Deploying ML Models)  
+- Excel VBA 
+- Flask 
 
 ## Libraries and Tools (by Preference)
 
