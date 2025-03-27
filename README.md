@@ -8,12 +8,9 @@ I'm Jie Hao
 - Intern at I Net Spatial
 
 🔧 **Technical Skills:**  
-- Data Analysis: Python (Pandas, NumPy, Matplotlib, Seaborn), R, Excel  
+- Data Analysis: Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PySpark, Flask), R, Excel, ArGIS
 - Data Visualization: Tableau, Power BI  
 - Automation: Excel VBA
-- ERP System: SAP Logon
-
-
 
 ## Libraries and Tools (by Preference)
 
