@@ -5,7 +5,7 @@ I'm Jie Hao
 Working Knowledge of:  
 - Data Analysis: Python (Pandas, NumPy, Matplotlib, Seaborn), R, Excel  
 - Data Visualization: Tableau, Power BI  
-- Automation**: Excel VBA, Python Scripting  
+- Automation: Excel VBA
 - ERP System: SAP Logon
 - Meishunfang Manufacturing - Data Analyst (Current)
 
