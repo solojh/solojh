@@ -9,7 +9,7 @@ I'm Jie Hao
 
 🔧 **Technical Skills:**  
 - Data Analysis: Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PySpark, Flask), R Studio, SQL,  Excel
-- Data Visualization: Tableau, Power BI
+- Data Visualization: Tableau, Power BI, ArcGIS
 - ML Libraries: Scikit-learn, TensorFlow, PyTorch  
 
 ### ⚡ **Automation & Tools**  
