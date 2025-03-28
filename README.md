@@ -12,9 +12,6 @@ I'm Jie Hao
 - Data Visualization: Tableau, Power BI, ArcGIS
 - ML Libraries: Scikit-learn, TensorFlow, PyTorch  
 
-### ⚡ **Automation & Tools**  
-- Excel VBA 
-
 ## Libraries and Tools (by Preference)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
