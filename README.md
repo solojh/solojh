@@ -14,7 +14,6 @@ I'm Jie Hao
 
 ### ⚡ **Automation & Tools**  
 - Excel VBA 
-- Flask 
 
 ## Libraries and Tools (by Preference)
 
