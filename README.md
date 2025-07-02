@@ -13,7 +13,7 @@ I'm Jie Hao
 - ML Libraries: Scikit-learn, TensorFlow, PyTorch
 - Mapping：ArcGIS，ArcMap （spatial analysis, 360° asset mapping）
 
-## Libraries and Tools (by Preference)
+## Libraries and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
