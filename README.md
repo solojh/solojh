@@ -5,10 +5,10 @@ I'm Jie Hao
 
 💼 **Experience:**  
 - Data Analyst at Meishunfang Manufacturing (Current)
-- GIS data Intern at I Net Spatial
+- GIS Data Analyst Intern at I Net Spatial
 
 🔧 **Technical Skills:**  
-- Data Analysis: Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PySpark, Flask), R Studio, SQL,  Excel
+- Data Analysis: Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PySpark, Flask), R Studio, SQL,  Excel, VBA
 - Data Visualization: Tableau, Power BI, ArcGIS
 - ML Libraries: Scikit-learn, TensorFlow, PyTorch
 - Mapping：ArcGIS，ArcMap （spatial analysis, 360° asset mapping）
