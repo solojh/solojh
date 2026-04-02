@@ -11,6 +11,7 @@ I'm Jie Hao
 🔧 **Technical Skills:**  
 - Data Analysis: Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PySpark, Flask), R Studio, SQL,  Excel, VBA
 - Data Visualization: Tableau, Power BI, ArcGIS
+- Data Collection & Annotation: CVAT
 - ML Libraries: Scikit-learn, TensorFlow, PyTorch
 - Mapping：ArcGIS，ArcMap （spatial analysis, 360° asset mapping, droned based data collection）
 
@@ -22,6 +23,7 @@ I'm Jie Hao
 ![Excel VBA](https://img.shields.io/badge/-Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![CVAT](https://img.shields.io/badge/-CVAT-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white)
 
 - 🌐 LinkedIn: [linkedin.com/in/jh-078254202](https://www.linkedin.com/in/jh-078254202)  
 - 📧 Email: jiehao990426@gmail.com  
