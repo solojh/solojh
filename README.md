@@ -11,7 +11,8 @@ I'm Jie Hao
 🔧 **Technical Skills:**  
 - Data Analysis: Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PySpark, Flask), R Studio, SQL,  Excel, VBA
 - Data Visualization: Tableau, Power BI, ArcGIS
-- Data Collection & Annotation: CVAT
+- Data Collection: Grab 360° asset mapping & Xray Baggage Scanner  
+- Data Annotation: CVAT
 - ML Libraries: Scikit-learn, TensorFlow, PyTorch
 - Mapping：ArcGIS，ArcMap （spatial analysis, 360° asset mapping, droned based data collection）
 
