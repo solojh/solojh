@@ -13,6 +13,7 @@ I'm Jie Hao
 - Data Visualization: Tableau, Power BI, ArcGIS
 - Data Collection: Grab 360 Karta Cam Street View & Xray Baggage Scanner
 - Data Annotation: CVAT
+- AI:   - X-ray Baggage Anomaly Detection, Computer Vision, Image Classification, Object Detection, AI Model Training & Evaluation, Anomalib, Deep Learning, AI Detection Performance Testing
 - ML Libraries: Scikit-learn, TensorFlow, PyTorch
 - Mapping：ArcGIS，ArcMap （spatial analysis, 360° asset mapping, droned based data collection）
 
