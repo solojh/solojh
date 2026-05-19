@@ -4,7 +4,7 @@ I'm Jie Hao
 - Data Analytics graduate from Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA).
 
 💼 **Experience:**  
-- Assistant Engineer (AI Trained) at TeleRadio Engineering (Current)
+- Assistant Engineer (AI Training) at TeleRadio Engineering (Current)
 - Data Analyst at Meishunfang Manufacturing 
 - GIS Data Analyst Intern at I Net Spatial
 
